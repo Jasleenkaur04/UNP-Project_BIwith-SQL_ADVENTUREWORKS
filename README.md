@@ -38,3 +38,5 @@ The queries are as follows:-
 
 SQL File link :-https://drive.google.com/file/d/1X9r5GpR8jJBdXzB3-238pz_yXD0UtGQW/view?usp=sharing
 
+PPT link :-
+
